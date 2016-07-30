@@ -14,9 +14,9 @@ if not xml is None:
     xml.write('output.xml')
 """
 
-"""
 sd = ServiceDiscovery.factory(ws)
 
+"""
 for db in sd.list_databases():
     odb = sd.get_database(db.get('name'))
     print 'DB: ' + odb.name() + ' - ' + odb.get('description')
@@ -31,7 +31,6 @@ for db in sd.list_databases():
     print 
 """
 
-"""
 db = sd.get_database('CORREIOS')
 
 print db.name()
@@ -45,9 +44,4 @@ print table.name()
 for fields in table.get_fields():
     print fields.name()
     print fields.options()
-"""
 
-a = [(1,2),(5,6)]
-
-for (k,v) in a:
-    print k

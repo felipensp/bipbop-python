@@ -1,4 +1,5 @@
 # BIPBOP
+# -*- coding: utf-8 -*-
 
 import bipbop
 #import xml.etree.ElementTree as ET

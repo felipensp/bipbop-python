@@ -1,5 +1,4 @@
 # BIPBOP
-# -*- coding: utf-8 -*-
 
 from database import Database
 from namebycpfcnpj import NameByCPFCNPJ
