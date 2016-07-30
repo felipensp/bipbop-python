@@ -1,4 +1,5 @@
 # BIPBOP
+# -*- coding: utf-8 -*-
 
 # Autor: Humberto Diogenes
 

@@ -1,4 +1,5 @@
 # BIPBOPB
+# -*- coding: utf-8 -*-
 
 class Exception(Exception):
 

@@ -1,4 +1,5 @@
 # BIPBOP
+# -*- coding: utf-8 -*-
 
 class Push:
     PARAMETER_PUSH_QUERY = "pushQuery"
